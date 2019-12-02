@@ -295,6 +295,1634 @@
             "workzone": "Canada"
         }
     ],
+    "digitalContracting": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "dispatch": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "driveService": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "electronicRepairOrder": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "fordSmartt": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "oneEighty": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "partScan": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "parts": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "sales": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "technicianWorkBench": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
+    "vehicleScan": [
+        {
+            "id": 0,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": true
+        },
+        {
+            "id": 1,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "3",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 2,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 3,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "5",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 4,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 5,
+            "week": "8/12/2019 - 8/18/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 6,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 7,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 8,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 9,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 10,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 11,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 12,
+            "week": "8/19/2019 - 8/25/2019",
+            "resources": "1",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 13,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Canada",
+            "match": false
+        },
+        {
+            "id": 14,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 15,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Western",
+            "match": false
+        },
+        {
+            "id": 16,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "Central",
+            "match": false
+        },
+        {
+            "id": 17,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "1",
+            "workzone": "North",
+            "match": false
+        },
+        {
+            "id": 18,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "South",
+            "match": false
+        },
+        {
+            "id": 19,
+            "week": "8/26/2019 - 9/1/2019",
+            "resources": "2",
+            "workzone": "West",
+            "match": false
+        },
+        {
+            "id": 20,
+            "week": "9/2/2019 - 9/8/2019",
+            "resources": "2",
+            "workzone": "Canada"
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
