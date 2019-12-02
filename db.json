@@ -132,19 +132,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "cdkService": [
@@ -280,19 +267,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "digitalContracting": [
@@ -428,19 +402,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "dispatch": [
@@ -577,19 +538,6 @@
             "workzone": "South",
             "match": false
         },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
-        }
     ],
     "driveService": [
         {
@@ -724,19 +672,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "electronicRepairOrder": [
@@ -872,19 +807,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "fordSmartt": [
@@ -1020,19 +942,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "oneEighty": [
@@ -1168,19 +1077,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "partScan": [
@@ -1316,19 +1212,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "parts": [
@@ -1464,19 +1347,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "sales": [
@@ -1612,19 +1482,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "technicianWorkBench": [
@@ -1760,19 +1617,6 @@
             "resources": "2",
             "workzone": "South",
             "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "vehicleScan": [
@@ -1894,33 +1738,6 @@
             "resources": "2",
             "workzone": "Central",
             "match": false
-        },
-        {
-            "id": 17,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "1",
-            "workzone": "North",
-            "match": false
-        },
-        {
-            "id": 18,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "South",
-            "match": false
-        },
-        {
-            "id": 19,
-            "week": "8/26/2019 - 9/1/2019",
-            "resources": "2",
-            "workzone": "West",
-            "match": false
-        },
-        {
-            "id": 20,
-            "week": "9/2/2019 - 9/8/2019",
-            "resources": "2",
-            "workzone": "Canada"
         }
     ],
     "profile": {
