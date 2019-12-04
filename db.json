@@ -104,12 +104,6 @@
             ]
         }
     },
-    "groupingsAcross": {
-        "groupings": []
-    },
-    "groupingsDown": {
-        "groupings": []
-    },
     "hasDetailRows": true,
     "reportExtendedMetadata": {
         "aggregateColumnInfo": {
